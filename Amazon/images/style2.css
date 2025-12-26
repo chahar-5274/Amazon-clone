@@ -1,0 +1,56 @@
+*{
+    color: blue;
+}
+nav{
+    background-color: #0f1111;
+    height: 60px;
+    color: white;
+}
+#logo{
+    font-size: 25px;
+    color: #f08804;
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+.contentBox1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    background-image:url(boy1.jpg);
+    background-size: cover;
+}
+
+.contentBox2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    background-image:url(boy2.jpg);
+    background-size: cover;
+}
+
+.contentBox3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    background-image:url(boy3.jpg);
+    background-size: cover;
+}
+
+
+#content{
+    height: 500px;
+}
+
+footer{
+    background-color: #0f1111;
+    text-align: center;
+    color: white;
+}
